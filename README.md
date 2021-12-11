@@ -22,7 +22,6 @@
 ## App Store
 + 【Xcode】：会顺带下载很多编译工具，以及Git，当然如果是苹果开发者，那肯定必须下载的
 + 【Mac办公三件套】：Keynote演讲、Pages文稿、Numbers表格
-+ 【Win办公三件套 For Mac】：Office 2019 for MAC
 + 【免费剪辑】：iMovie剪辑、库乐队
 + 【Pro App套装】：Final Cut Pro、Compressor、Motion、Logic Pro、MainStage
 + 【解压】：The Unarchiver
@@ -30,6 +29,12 @@
 
 ## 会议&面试
 + 钉钉、腾讯会议、zoom、WeMeeting、JoyMeeting、如流、飞书
+
+
+## 文档
++ 【Win办公三件套 For Mac】：Office 2019 for MAC
++ 【福昕PDF】：
+
 
 ## 录屏
 + 【OBS】：

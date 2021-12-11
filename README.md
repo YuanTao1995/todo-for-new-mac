@@ -20,7 +20,7 @@
 + 插件：学习达人
 
 ## App Store
-+ 【Xcode】：会顺带下载很多编译工具，当然如果是苹果开发者，那肯定必须下载的
++ 【Xcode】：会顺带下载很多编译工具，以及Git，当然如果是苹果开发者，那肯定必须下载的
 + 【办公三件套】：Keynote演讲、Pages文稿、Numbers表格
 + 【免费剪辑】：iMovie剪辑、库乐队
 + 【Pro App套装】：Final Cut Pro、Compressor、Motion、Logic Pro、MainStage
@@ -36,7 +36,8 @@
 
 
 ## 开发者
++ 【终端】：iTerm2、Termius
 + 【JetBrains全家桶】：在ToolBox里登录，并安装对应的软件即可
-+ 【虚拟机】：
++ 【虚拟机】：PD、Win、Linux
 + 【论文写作】：MacTex、MathPix Snipping Tool
 

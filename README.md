@@ -37,6 +37,7 @@
 
 ## 开发者
 + 【终端】：iTerm2、Termius
++ 【编辑器】：VS Code
 + 【JetBrains全家桶】：在ToolBox里登录，并安装对应的软件即可
 + 【虚拟机】：PD、Win、Linux
 + 【论文写作】：MacTex、MathPix Snipping Tool

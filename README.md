@@ -31,11 +31,11 @@
 + 钉钉、腾讯会议、zoom、WeMeeting、JoyMeeting、如流、飞书
 
 
-## 文档
+## 生产力
 + 【Win办公三件套 For Mac】：Office 2019 for MAC
 + 【福昕PDF】：
 + 【画图工具】：亿图图示、visio
-
++ 【视频播放器】：IINA
 
 ## 录屏
 + 【OBS】：

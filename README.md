@@ -34,6 +34,7 @@
 ## 文档
 + 【Win办公三件套 For Mac】：Office 2019 for MAC
 + 【福昕PDF】：
++ 【画图工具】：亿图图示、visio
 
 
 ## 录屏
